@@ -19,3 +19,4 @@ Average time dependence task expectations when the degree changes heterogeneity 
 **2.	Визначення тимчасової складності  алгоритму**
 
 **O(N^2)**
+
