@@ -1,0 +1,13 @@
+D:\KPI_Labs\5 sem\ОС\лаб4\lab4\lab4\bin\Debug\netcoreapp3.1\lab4.exe
+D:\KPI_Labs\5 sem\ОС\лаб4\lab4\lab4\bin\Debug\netcoreapp3.1\lab4.deps.json
+D:\KPI_Labs\5 sem\ОС\лаб4\lab4\lab4\bin\Debug\netcoreapp3.1\lab4.runtimeconfig.json
+D:\KPI_Labs\5 sem\ОС\лаб4\lab4\lab4\bin\Debug\netcoreapp3.1\lab4.runtimeconfig.dev.json
+D:\KPI_Labs\5 sem\ОС\лаб4\lab4\lab4\bin\Debug\netcoreapp3.1\lab4.dll
+D:\KPI_Labs\5 sem\ОС\лаб4\lab4\lab4\bin\Debug\netcoreapp3.1\lab4.pdb
+D:\KPI_Labs\5 sem\ОС\лаб4\lab4\lab4\obj\Debug\netcoreapp3.1\lab4.csprojAssemblyReference.cache
+D:\KPI_Labs\5 sem\ОС\лаб4\lab4\lab4\obj\Debug\netcoreapp3.1\lab4.AssemblyInfoInputs.cache
+D:\KPI_Labs\5 sem\ОС\лаб4\lab4\lab4\obj\Debug\netcoreapp3.1\lab4.AssemblyInfo.cs
+D:\KPI_Labs\5 sem\ОС\лаб4\lab4\lab4\obj\Debug\netcoreapp3.1\lab4.csproj.CoreCompileInputs.cache
+D:\KPI_Labs\5 sem\ОС\лаб4\lab4\lab4\obj\Debug\netcoreapp3.1\lab4.dll
+D:\KPI_Labs\5 sem\ОС\лаб4\lab4\lab4\obj\Debug\netcoreapp3.1\lab4.pdb
+D:\KPI_Labs\5 sem\ОС\лаб4\lab4\lab4\obj\Debug\netcoreapp3.1\lab4.genruntimeconfig.cache
